@@ -1,0 +1,11 @@
+payload:
+# emacs url
+  - melpa.org
+  - orgmode.org
+  - spacemacs.org
+
+# terraform
+  - terraform.io
+  
+# rust
+  - crates.io
