@@ -1,11 +1,11 @@
 payload:
 # emacs url
-  - melpa.org
-  - orgmode.org
-  - spacemacs.org
+  - DOMAIN-SUFFIX,melpa.org
+  - DOMAIN-SUFFIX.orgmode.org
+  - DOMAIN-SUFFIX,spacemacs.org
 
 # terraform
-  - terraform.io
+  - DOMAIN-SUFFIX,terraform.io
   
 # rust
-  - crates.io
+  - DOMAIN-SUFFIX,crates.io
